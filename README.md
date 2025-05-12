@@ -2,27 +2,27 @@
 ## MindMate AI
  
  "A Context-Aware Chatbot for Youth Mental Health Support"
-## Final project for the Building AI course 
-## Project Summary:
+# Final project for the Building AI course 
+# Project Summary:
 
 MindMate AI is a conversational AI chatbot designed to provide basic emotional support and wellness guidance to users experiencing stress, anxiety, or low moods. Using Natural Language Processing (NLP) and Sentiment Analysis, the chatbot detects emotional tone in user inputs and responds with empathetic, non-clinical support messages.
 
 This prototype targets youth in underserved communities where access to mental health professionals is limited. It demonstrates how AI can be ethically and responsibly used to complement human support, not replace it.
 
-## Key Objectives:
+# Key Objectives:
 
 *Use AI to detect emotional tone (positive, neutral, negative) in user messages.
 *Respond with supportive, context-aware responses.
 *Provide mental wellness prompts like breathing exercises or calming words.
 *Serve as a safe, stigma-free space for self-expression and basic emotional aid.
 
-### Project Objective:
+# Project Objective:
 
 To build a prototype AI-powered chatbot that provides: non-clinical emotional support and mental wellness resources to users, using Natural Language Processing (NLP), sentiment analysis, and machine learning classification techniques.
 
 ---
 
-###  AI Techniques Used:
+#  AI Techniques Used:
 
 1. **Natural Language Understanding (NLU)**
 
@@ -54,7 +54,7 @@ To build a prototype AI-powered chatbot that provides: non-clinical emotional su
 
 ---
 
-###  Dataset Ideas:
+#  Dataset Ideas:
 
 * **Emotion classification datasets** (e.g., Emotion Dataset on Hugging Face)
 * **Mental health forum data** (e.g., Reddit Mental Health datasets)
@@ -62,7 +62,7 @@ To build a prototype AI-powered chatbot that provides: non-clinical emotional su
 
 ---
 
-###  Key Features of the App (Prototype):
+# Key Features of the App (Prototype):
 
 * User enters a message (e.g., "I feel overwhelmed and can’t sleep lately.")
 * AI model:
@@ -74,7 +74,7 @@ To build a prototype AI-powered chatbot that provides: non-clinical emotional su
 
 ---
 
-###  Tools You Can Use:
+# Tools You Can Use:
 
 * Python (main language)
 * Flask or Streamlit (for interface)
@@ -84,7 +84,7 @@ To build a prototype AI-powered chatbot that provides: non-clinical emotional su
 
 ---
 
-###  Evaluation:
+# Evaluation:
 
 * Model accuracy for intent classification and sentiment detection
 * User experience simulation with scripted dialogues
@@ -93,7 +93,7 @@ To build a prototype AI-powered chatbot that provides: non-clinical emotional su
 Here's a simple prototype of "MindMate AI" chatbot in action! It analyzes user input for sentiment and responds accordingly:
 
 
-### Example Conversations:
+# Example Conversations:
 
 1. User: "I feel really sad and anxious today."
    Bot: "I'm sorry you're feeling this way. Would you like to try a quick breathing exercise or talk more about it?"
