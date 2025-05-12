@@ -1,5 +1,4 @@
-
-#  Project Title: **MindMate AI: A Context-Aware Chatbot for Youth Mental Health Support**
+ Project Title: "MindMate AI: A Context-Aware Chatbot for Youth Mental Health Support"
 Final project for the Building AI course 
 ## Project Summary:
 
