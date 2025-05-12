@@ -1,10 +1,10 @@
-
 ### MindMate AI
  
- "A Context-Aware Chatbot for Youth Mental Health Support"
+  "A Context-Aware Chatbot for Youth Mental Health Support"
+ 
 Final project for the Building AI course 
 
-# Project Summary:
+# Summary:
 
 MindMate AI is a conversational AI chatbot designed to provide basic emotional support and wellness guidance to users experiencing stress, anxiety, or low moods. Using Natural Language Processing (NLP) and Sentiment Analysis, the chatbot detects emotional tone in user inputs and responds with empathetic, non-clinical support messages.
 
